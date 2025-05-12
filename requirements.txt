@@ -8,3 +8,4 @@ ipykernel
 openpyxl
 tqdm
 argparse
+json_tricks
